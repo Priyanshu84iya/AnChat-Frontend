@@ -1,7 +1,7 @@
 // Configuration
 const CONFIG = {
     // Change this URL for production deployment
-    SERVER_URL: 'http://localhost:3000', // For local development
+    SERVER_URL: 'https://anchat-backend-production.up.railway.app/', // For local development
     // SERVER_URL: 'https://your-railway-app.railway.app', // For production
     MAX_MESSAGE_LENGTH: 500,
     RECONNECT_ATTEMPTS: 3,
